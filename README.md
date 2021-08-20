@@ -17,12 +17,14 @@ Here are some ideas to get you started:
 # Hi, everyone! 👋 I'm Bohyeon Lee.
 ### 🙆🏻‍♀️ I'm .... 
 - currently learning AI (🔥doing my best).
-- interested in NLP and Compression (+ Art, Science, Dynamics... everything in Earth) 
+- interested in SW & HW  (+ Art, Science, Dynamics... everything in Earth) 
 - super detail-oriented
 
+<!--
 ### ⚡ What i'm focusing now...
 - Compression Model size and architecture searching
 - Open Dialogue chat 🤗
+-->
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=FFF2A0&height=20&section=footer&text=&fontSize=90)
 <h3 align="left">👩‍💻 My Github Stats 👩‍💻</h3>
